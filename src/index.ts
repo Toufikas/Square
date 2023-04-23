@@ -1,3 +1,3 @@
-import { Square } from './Square.ts';
+import { Square } from './Square.js';
 
 export { Square };
